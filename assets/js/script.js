@@ -12,7 +12,7 @@
 // Function to handle the download CV button click
 const downloadCv = function () {
   // Replace 'path/to/your/cv.pdf' with the actual path to your CV file
-  const cvFilePath = 'C:/CODE/React/Projects/Portfolio/My-Portfolio/assets/My-Resume.pdf';
+  const cvFilePath = 'assets/My-Resume.pdf';
   
   // Create a temporary link element
   const link = document.createElement('a');
